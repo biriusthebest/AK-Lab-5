@@ -11,7 +11,7 @@ extern int print_hello(uint);
 
 static uint count = 1;
 
-MODULE_AUTHOR("Hrona Yurii");
+MODULE_AUTHOR("Palekha Bohdan");
 MODULE_DESCRIPTION("Hello2 advanced, world in Linux Kernel Training");
 MODULE_LICENSE("Dual BSD/GPL");
 
