@@ -6,15 +6,7 @@ modinfo hello:
 
 
 
-Запуск модуля hello:
 
-![lab5](img/2.jpg)
-
-Advanced:
-
-modinfo модуля hello1
-
-![lab5](img/3.jpg)
 
 modinfo модуля hello2
 
