@@ -4,7 +4,7 @@ Basic:
 
 modinfo hello:
 
-![lab5](img/1.jpg)
+
 
 Запуск модуля hello:
 
