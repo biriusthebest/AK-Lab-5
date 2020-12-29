@@ -10,7 +10,7 @@ modinfo hello:
 
 modinfo модуля hello2
 
-![lab5](img/4.jpg)
+
 
 запуск модуля hello2 без параметрів
 
